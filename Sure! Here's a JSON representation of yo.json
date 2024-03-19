@@ -1,0 +1,45 @@
+Sure! Here's a JSON representation of your NFT collection "WakeMeUpGoGo" with the first NFT's description:
+
+```json
+{
+  "collection_name": "WAKE UP!",
+  "nfts": [
+    {
+      "id": 1,
+      "name": "WakeMeUpGoGo #1",
+      "description": "Grumpy, crazy and unpredictable! When this man has to get up 7am Monday morning...",
+      "image": "url_to_image_of_NFT1",
+      "attributes": {
+        "trait1": "Grumpy",
+        "trait2": "Crazy",
+        "trait3": "Unpredictable"
+      }
+    },
+    {
+      "id": 2,
+      "name": "WakeMeUpGoGo #2",
+      "description": "Description of NFT 2",
+      "image": "url_to_image_of_NFT2",
+      "attributes": {
+        "trait1": "Trait1 of NFT 2",
+        "trait2": "Trait2 of NFT 2",
+        "trait3": "Trait3 of NFT 2"
+      }
+    },
+    {
+      "id": 3,
+      "name": "WakeMeUpGoGo #3",
+      "description": "Description of NFT 3",
+      "image": "url_to_image_of_NFT3",
+      "attributes": {
+        "trait1": "Trait1 of NFT 3",
+        "trait2": "Trait2 of NFT 3",
+        "trait3": "Trait3 of NFT 3"
+      }
+    }
+    // Add more NFT objects as needed
+  ]
+}
+```
+
+Replace `"url_to_image_of_NFT1"` with the actual URL of the image for your first NFT, and similarly for other NFTs. You can also add more NFT objects following the same structure provided.
